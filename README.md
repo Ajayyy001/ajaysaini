@@ -1,2 +1,1 @@
-# Moisture Content
-using sensor
+# Moisture content using sensor
